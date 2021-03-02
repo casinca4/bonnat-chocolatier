@@ -92,7 +92,7 @@ main {
 
 .container_bonnat {
 	border-right: 20px solid #fff;
-	background: url(/assets/portrait.jpg);
+	background: url("/assets/portrait.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -141,7 +141,7 @@ main {
 
 .container_grandscrus {
 	border-bottom: 10px solid #fff;
-	background-image: url(/assets/grands-crus.jpg);
+	background-image: url("/assets/grands-crus.jpg");
 	background-size: cover;
 	height: 30vw;
 	position: relative;
@@ -177,7 +177,7 @@ main {
 .container_boutique {
 	height: 29vw;
 	border-top: 10px solid #fff;
-	background-image: url(/assets/boutique.jpg);
+	background-image: url("/assets/boutique.jpg");
 	background-size: cover;
 	position: relative;
 }
@@ -217,7 +217,7 @@ main {
 .actualites {
 	height: 40vw;
 	border-right: 10px solid #fff;
-	background-image: url(/assets/actus-2.jpg);
+	background-image: url("/assets/actus-2.jpg");
 	background-size: cover;
 	flex: 1 1 33%;
 }
@@ -253,7 +253,7 @@ main {
 	flex: 1 1 67%;
 	height: 40vw;
 	border-left: 10px solid #fff;
-	background-image: url(/assets/histoire.jpg);
+	background-image: url("/assets/histoire.jpg");
 	background-size: cover;
 }
 
@@ -296,7 +296,7 @@ main {
 }
 
 .laboratoire {
-	background-image: url(/assets/saveurs.jpg);
+	background-image: url("/assets/saveurs.jpg");
 	background-size: cover;
 	border-right: 10px solid #fff;
 	height: 50vw;
@@ -388,7 +388,7 @@ main {
 .cacao {
 	height: 50vw;
 	border-left: 10px solid #fff;
-	background-image: url(/assets/cacao.jpg);
+	background-image: url("/assets/cacao.jpg");
 	background-size: cover;
 }
 
@@ -433,7 +433,7 @@ main {
 }
 
 .karte {
-	background-image: url(/assets/legendes.jpg);
+	background-image: url("/assets/legendes.jpg");
 	background-size: cover;
 	border-left: 10px solid #fff;
 	height: 50vw;
