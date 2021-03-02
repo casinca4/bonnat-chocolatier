@@ -92,7 +92,7 @@ main {
 
 .container_bonnat {
 	border-right: 20px solid #fff;
-	background: url("/assets/portrait.jpg");
+	background: url("./assets/saveurs.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
